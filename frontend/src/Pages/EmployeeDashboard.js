@@ -128,33 +128,10 @@ function EmployeeDashboard() {
 
         {/* ANALYTICS */}
 
-        {
-          activeSection ===
-          "analytics" && (
+       
+        
 
-            <AnalyticsSection
-              employeeData={
-                employeeData
-              }
-            />
-
-          )
-        }
-
-        {/* SESSIONS */}
-
-        {
-          activeSection ===
-          "sessions" && (
-
-            <SessionsSection
-              sessions={
-                employeeData.sessions
-              }
-            />
-
-          )
-        }
+        
       {
   activeSection ===
   "schedulerbot" && (
