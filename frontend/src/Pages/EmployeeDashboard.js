@@ -8,7 +8,7 @@ import PowerBISection from "../Components/PowerBISection";
 import DashboardSection from "../Components/DashboardSection";
 import AnalyticsSection from "../Components/AnalyticsSection";
 import SessionsSection from "../Components/SessionsSection";
-import RolesSection from "../Components/RolesSection";
+
 import SchedulerBot from "../Components/SchedulerBot";
 
 import "../styles/EmployeeDashboard.css";
