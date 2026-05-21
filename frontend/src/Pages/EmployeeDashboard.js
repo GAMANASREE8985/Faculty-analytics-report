@@ -6,8 +6,6 @@ import Sidebar from "../Components/Sidebar";
 import Topbar from "../Components/Topbar";
 import PowerBISection from "../Components/PowerBISection";
 import DashboardSection from "../Components/DashboardSection";
-import AnalyticsSection from "../Components/AnalyticsSection";
-import SessionsSection from "../Components/SessionsSection";
 
 import SchedulerBot from "../Components/SchedulerBot";
 
