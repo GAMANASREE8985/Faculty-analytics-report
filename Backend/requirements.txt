@@ -6,3 +6,4 @@ gunicorn
 openai
 langchain
 langchain-openai
+ollama
