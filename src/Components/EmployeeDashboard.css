@@ -1,0 +1,199 @@
+/* ================================= */
+/* CHATBOT CONTAINER */
+/* ================================= */
+
+.chatbot-container {
+
+  width: 90%;
+
+  margin: 30px auto;
+
+  background: white;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+
+}
+
+/* ================================= */
+/* HEADER */
+/* ================================= */
+
+.chatbot-header {
+
+  background: linear-gradient(
+    to right,
+    #1d4ed8,
+    #2563eb
+  );
+
+  color: white;
+
+  padding: 25px 30px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+.chatbot-header h2 {
+
+  margin: 0;
+
+  font-size: 38px;
+
+  font-weight: 700;
+
+}
+
+.chatbot-header p {
+
+  margin: 0;
+
+  font-size: 16px;
+
+}
+
+/* ================================= */
+/* INPUT SECTION */
+/* ================================= */
+
+.chatbot-input-section {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 20px;
+
+  padding: 30px;
+
+}
+
+/* INPUT */
+
+.chatbot-input-section input {
+
+  flex: 1;
+
+  height: 60px;
+
+  padding: 0 20px;
+
+  border: 1px solid #cbd5e1;
+
+  border-radius: 14px;
+
+  font-size: 18px;
+
+  background: #f8fafc;
+
+  outline: none;
+
+}
+
+/* BUTTON */
+
+.chatbot-input-section button {
+
+  height: 60px;
+
+  padding: 0 35px;
+
+  border: none;
+
+  border-radius: 14px;
+
+  background: #2563eb;
+
+  color: white;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+}
+
+.chatbot-input-section button:hover {
+
+  background: #1d4ed8;
+
+}
+
+/* ================================= */
+/* RESPONSE */
+/* ================================= */
+
+.chatbot-response {
+
+  margin: 0 30px 30px;
+
+  padding: 25px;
+
+  border-radius: 16px;
+
+  background: #f1f5f9;
+
+}
+
+.chatbot-response h3 {
+
+  margin-bottom: 10px;
+
+  color: #0f172a;
+
+}
+
+.chatbot-response p {
+
+  color: #334155;
+
+  font-size: 17px;
+
+  line-height: 1.7;
+
+}
+
+/* ================================= */
+/* MOBILE */
+/* ================================= */
+
+@media (max-width: 768px) {
+
+  .chatbot-header {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 10px;
+
+  }
+
+  .chatbot-input-section {
+
+    flex-direction: column;
+
+  }
+
+  .chatbot-input-section input {
+
+    width: 100%;
+
+  }
+
+  .chatbot-input-section button {
+
+    width: 100%;
+
+  }
+
+}
