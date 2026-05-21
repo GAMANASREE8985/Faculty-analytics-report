@@ -283,4 +283,279 @@
 
   align-items:center;
 
+
+}
+/* =========================================
+   MOBILE RESPONSIVE
+========================================= */
+
+@media screen and (max-width: 768px) {
+
+  /* MAIN LAYOUT */
+
+  .dashboard-container{
+
+    flex-direction:column;
+
+  }
+
+  /* SIDEBAR */
+
+  .sidebar{
+
+    width:100%;
+
+    padding:15px;
+
+  }
+
+  .sidebar h2{
+
+    text-align:center;
+
+    margin-bottom:20px;
+
+  }
+
+  .sidebar ul{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:10px;
+
+    justify-content:center;
+
+  }
+
+  .sidebar li{
+
+    flex:1 1 45%;
+
+    text-align:center;
+
+    margin-bottom:10px;
+
+    padding:12px;
+
+    font-size:14px;
+
+  }
+
+  /* MAIN CONTENT */
+
+  .main-content{
+
+    padding:15px;
+
+  }
+
+  /* TOPBAR */
+
+  .top-bar{
+
+    flex-direction:column;
+
+    align-items:flex-start;
+
+    gap:15px;
+
+  }
+
+  .top-bar h1{
+
+    font-size:22px;
+
+  }
+
+  .admin-btn{
+
+    width:100%;
+
+  }
+
+  /* CARDS */
+
+  .cards{
+
+    grid-template-columns:1fr;
+
+  }
+
+  .card{
+
+    width:100%;
+
+    padding:20px;
+
+  }
+
+  .card h2{
+
+    font-size:20px;
+
+  }
+
+  /* CHART */
+
+  .chart-card{
+
+    padding:20px;
+
+  }
+
+  /* POWER BI */
+
+  .powerbi-card{
+
+    width:100%;
+
+    padding:25px;
+
+  }
+
+  .powerbi-card h1{
+
+    font-size:24px;
+
+  }
+
+  .powerbi-card p{
+
+    font-size:14px;
+
+    line-height:24px;
+
+  }
+
+  .open-btn{
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    padding:14px;
+
+  }
+
+}
+/* =========================================
+   HR POWER BI MOBILE RESPONSIVE
+========================================= */
+
+@media screen and (max-width: 768px) {
+
+  /* MAIN LAYOUT */
+
+  .dashboard-container {
+
+    flex-direction: column;
+
+  }
+
+  /* SIDEBAR */
+
+  .sidebar,
+  .employee-sidebar {
+
+    width: 100%;
+
+    height: auto;
+
+    padding: 15px;
+
+  }
+
+  .sidebar ul,
+  .employee-sidebar ul {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 10px;
+
+    justify-content: center;
+
+  }
+
+  .sidebar li,
+  .employee-sidebar li {
+
+    flex: 1 1 45%;
+
+    text-align: center;
+
+    margin-bottom: 10px;
+
+  }
+
+  /* MAIN CONTENT */
+
+  .main-content {
+
+    width: 100%;
+
+    padding: 15px;
+
+  }
+
+  /* TOP BAR */
+
+  .top-bar {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 10px;
+
+  }
+
+  .top-bar h1 {
+
+    font-size: 22px;
+
+  }
+
+  /* POWER BI CARD */
+
+  .powerbi-card {
+
+    width: 100% !important;
+
+    padding: 15px !important;
+
+  }
+
+  /* DROPDOWN */
+
+  select {
+
+    width: 100% !important;
+
+    max-width: 100% !important;
+
+  }
+
+  /* BUTTONS */
+
+  button,
+  .open-btn {
+
+    width: 100%;
+
+  }
+
+  /* IFRAME */
+
+  iframe {
+
+    height: 500px !important;
+
+  }
+
 }

@@ -853,3 +853,186 @@ table td{
   }
 
 }
+/* ===================================
+   FINAL MOBILE RESPONSIVE
+=================================== */
+
+@media screen and (max-width:768px){
+
+  /* SIDEBAR */
+
+  .employee-sidebar{
+
+    width:100%;
+
+    padding:15px;
+
+  }
+
+  .employee-sidebar h2{
+
+    text-align:center;
+
+    font-size:24px;
+
+  }
+
+  .employee-sidebar ul{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:10px;
+
+    justify-content:center;
+  }
+
+  .employee-sidebar li{
+
+    flex:1 1 45%;
+
+    text-align:center;
+
+    margin-bottom:10px;
+
+    padding:12px;
+
+    font-size:14px;
+  }
+
+  /* TOPBAR */
+
+  .employee-topbar{
+
+    flex-direction:column;
+
+    align-items:flex-start;
+
+    gap:15px;
+  }
+
+  .employee-topbar h1{
+
+    font-size:24px;
+  }
+
+  .employee-topbar button{
+
+    width:100%;
+  }
+
+  /* HERO SECTION */
+
+  .dashboard-hero{
+
+    padding:25px;
+
+    min-height:auto;
+  }
+
+  .dashboard-hero h1{
+
+    font-size:32px;
+
+    line-height:1.3;
+  }
+
+  .dashboard-hero p{
+
+    font-size:15px;
+  }
+
+  /* PROFILE */
+
+  .profile-card{
+
+    padding:20px;
+  }
+
+  .profile-left{
+
+    flex-direction:column;
+
+    text-align:center;
+  }
+
+  .profile-avatar{
+
+    width:65px;
+
+    height:65px;
+
+    font-size:28px;
+  }
+
+  /* ANALYTICS */
+
+  .analytics-cards{
+
+    grid-template-columns:1fr !important;
+  }
+
+  .analytics-card{
+
+    min-height:auto;
+
+    padding:20px;
+  }
+
+  .analytics-card h1{
+
+    font-size:34px;
+  }
+
+  /* TABLE */
+
+  .table-card,
+  .session-table{
+
+    overflow-x:auto;
+  }
+
+  table{
+
+    min-width:700px;
+  }
+
+  /* CHATBOT */
+
+  .chatbot-container{
+
+    margin-top:20px;
+  }
+
+  .chatbot-header{
+
+    padding:18px;
+  }
+
+  .chatbot-header h2{
+
+    font-size:22px;
+  }
+
+  .chatbot-body{
+
+    padding:18px;
+  }
+
+  .message-content{
+
+    padding:15px;
+  }
+
+  .chatbot-footer{
+
+    padding:15px;
+  }
+
+  .chatbot-footer button{
+
+    width:100%;
+  }
+
+}

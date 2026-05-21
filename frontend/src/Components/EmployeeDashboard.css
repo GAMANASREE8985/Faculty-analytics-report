@@ -197,3 +197,106 @@
   }
 
 }
+/* ================================= */
+/* FINAL MOBILE RESPONSIVE */
+/* ================================= */
+
+@media (max-width: 768px) {
+
+  /* CONTAINER */
+
+  .chatbot-container {
+
+    width: 95%;
+
+    margin: 20px auto;
+
+    border-radius: 16px;
+
+  }
+
+  /* HEADER */
+
+  .chatbot-header {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 12px;
+
+    padding: 20px;
+
+  }
+
+  .chatbot-header h2 {
+
+    font-size: 26px;
+
+    line-height: 1.3;
+
+  }
+
+  .chatbot-header p {
+
+    font-size: 14px;
+
+  }
+
+  /* INPUT SECTION */
+
+  .chatbot-input-section {
+
+    flex-direction: column;
+
+    padding: 20px;
+
+    gap: 15px;
+
+  }
+
+  .chatbot-input-section input {
+
+    width: 100%;
+
+    height: 52px;
+
+    font-size: 15px;
+
+  }
+
+  .chatbot-input-section button {
+
+    width: 100%;
+
+    height: 52px;
+
+    font-size: 16px;
+
+  }
+
+  /* RESPONSE */
+
+  .chatbot-response {
+
+    margin: 0 20px 20px;
+
+    padding: 18px;
+
+  }
+
+  .chatbot-response h3 {
+
+    font-size: 20px;
+
+  }
+
+  .chatbot-response p {
+
+    font-size: 15px;
+
+    line-height: 1.6;
+
+  }
+
+}

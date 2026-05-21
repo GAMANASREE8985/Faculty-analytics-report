@@ -31,7 +31,7 @@ function PowerBISection() {
 
     <div
       style={{
-        padding: "30px",
+        padding: "20px",
         background: "#f3f4f6",
         minHeight: "100vh"
       }}
@@ -39,37 +39,45 @@ function PowerBISection() {
 
       {/* HEADER */}
 
-      <h1
+      <div
         style={{
-          fontSize: "34px",
-          fontWeight: "700",
-          marginBottom: "15px",
-          color: "#111827"
+          marginBottom: "25px"
         }}
       >
 
-        Power BI Dashboard
+        <h1
+          style={{
+            fontSize: "clamp(28px,5vw,40px)",
+            fontWeight: "700",
+            color: "#111827",
+            marginBottom: "10px"
+          }}
+        >
 
-      </h1>
+          Power BI Dashboard
 
-      <p
-        style={{
-          fontSize: "16px",
-          color: "#6b7280",
-          marginBottom: "30px"
-        }}
-      >
+        </h1>
 
-        View complete HR and Faculty Analytics dashboards.
+        <p
+          style={{
+            fontSize: "15px",
+            color: "#6b7280",
+            lineHeight: "1.6"
+          }}
+        >
 
-      </p>
+          View complete HR and Faculty Analytics dashboards.
+
+        </p>
+
+      </div>
 
       {/* CARD */}
 
       <div
         style={{
           background: "#ffffff",
-          padding: "30px",
+          padding: "20px",
           borderRadius: "20px",
           boxShadow:
             "0 4px 14px rgba(0,0,0,0.08)"
@@ -80,8 +88,9 @@ function PowerBISection() {
 
         <h2
           style={{
-            marginBottom: "20px",
-            color: "#111827"
+            marginBottom: "15px",
+            color: "#111827",
+            fontSize: "clamp(20px,4vw,28px)"
           }}
         >
 
@@ -95,7 +104,8 @@ function PowerBISection() {
           style={{
             marginBottom: "20px",
             color: "#374151",
-            fontWeight: "600"
+            fontWeight: "600",
+            wordBreak: "break-word"
           }}
         >
 
@@ -105,28 +115,43 @@ function PowerBISection() {
 
         </p>
 
-        {/* POWER BI IFRAME */}
+        {/* IFRAME WRAPPER */}
 
-        <iframe
-
-          title="PowerBI"
-
-          width="100%"
-
-          height="750"
-
-          src={filteredURL}
-
-          frameBorder="0"
-
-          allowFullScreen={true}
-
+        <div
           style={{
-            borderRadius: "12px",
-            border: "1px solid #d1d5db"
+            width: "100%",
+            overflow: "hidden",
+            borderRadius: "14px"
           }}
+        >
 
-        />
+          <iframe
+
+            title="PowerBI"
+
+            width="100%"
+
+            height={
+              window.innerWidth < 768
+                ? "500"
+                : "750"
+            }
+
+            src={filteredURL}
+
+            frameBorder="0"
+
+            allowFullScreen={true}
+
+            style={{
+              borderRadius: "12px",
+              border: "1px solid #d1d5db",
+              background: "#ffffff"
+            }}
+
+          />
+
+        </div>
 
       </div>
 

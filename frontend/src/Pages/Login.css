@@ -257,3 +257,128 @@ body {
   font-size: 13px;
 
 }
+/* ======================================
+   MOBILE RESPONSIVE
+====================================== */
+
+@media screen and (max-width: 768px) {
+
+  /* NAVBAR */
+
+  .navbar {
+
+    flex-direction: column;
+
+    height: auto;
+
+    padding: 15px;
+
+    gap: 10px;
+
+    text-align: center;
+
+  }
+
+  .nav-links {
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 15px;
+
+  }
+
+  /* MAIN SECTION */
+
+  .main-section {
+
+    flex-direction: column;
+
+    padding: 20px;
+
+    gap: 30px;
+
+  }
+
+  /* LEFT CONTENT */
+
+  .left-content {
+
+    width: 100%;
+
+    text-align: center;
+
+  }
+
+  .left-content h1 {
+
+    font-size: 34px;
+
+    line-height: 45px;
+
+  }
+
+  .left-content p {
+
+    font-size: 14px;
+
+  }
+
+  /* FEATURE GRID */
+
+  .feature-grid {
+
+    grid-template-columns: 1fr;
+
+  }
+
+  .feature-card {
+
+    padding: 15px;
+
+  }
+
+  /* LOGIN BOX */
+
+  .login-box {
+
+    width: 100%;
+
+    max-width: 350px;
+
+    padding: 25px;
+
+  }
+
+  .login-box h1 {
+
+    font-size: 28px;
+
+  }
+
+  .login-box input {
+
+    padding: 12px;
+
+    font-size: 14px;
+
+  }
+
+  .login-box button {
+
+    padding: 12px;
+
+    font-size: 15px;
+
+  }
+
+  /* DEMO BOX */
+
+  .demo-box {
+
+    text-align: left;
+
+  }
+
+}
