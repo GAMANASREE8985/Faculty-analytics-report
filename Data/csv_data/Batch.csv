@@ -1,0 +1,501 @@
+batch_id,batch_owner,batch_name,track_name,stu_strength
+4001,2127,Batch_4001,AI & ML,51
+4002,5481,Batch_4002,Data Engineering,28
+4003,1721,Batch_4003,Python Full Stack,58
+4004,4250,Batch_4004,Data Engineering,29
+4005,2563,Batch_4005,Data Engineering,43
+4006,4386,Batch_4006,Data Engineering,28
+4007,5253,Batch_4007,Python Full Stack,47
+4008,5986,Batch_4008,Java Full Stack,33
+4009,3797,Batch_4009,DevOps,48
+4010,4094,Batch_4010,DevOps,31
+4011,2668,Batch_4011,DevOps,55
+4012,1601,Batch_4012,Cloud Computing,30
+4013,3035,Batch_4013,Java Full Stack,31
+4014,4188,Batch_4014,Python Full Stack,54
+4015,1099,Batch_4015,Cloud Computing,44
+4016,4849,Batch_4016,Python Full Stack,32
+4017,2053,Batch_4017,DevOps,38
+4018,3763,Batch_4018,AI & ML,54
+4019,3817,Batch_4019,Java Full Stack,25
+4020,3418,Batch_4020,Cloud Computing,26
+4021,4311,Batch_4021,Cloud Computing,31
+4022,1148,Batch_4022,AI & ML,41
+4023,5005,Batch_4023,AI & ML,57
+4024,1004,Batch_4024,Java Full Stack,27
+4025,5959,Batch_4025,AI & ML,29
+4026,5673,Batch_4026,AI & ML,59
+4027,2501,Batch_4027,Cloud Computing,59
+4028,1556,Batch_4028,Java Full Stack,57
+4029,3555,Batch_4029,Data Engineering,25
+4030,3457,Batch_4030,Data Engineering,34
+4031,4469,Batch_4031,Java Full Stack,52
+4032,1433,Batch_4032,Data Engineering,33
+4033,2276,Batch_4033,DevOps,29
+4034,4561,Batch_4034,Java Full Stack,49
+4035,4475,Batch_4035,Python Full Stack,54
+4036,2692,Batch_4036,Data Engineering,38
+4037,2166,Batch_4037,AI & ML,53
+4038,5173,Batch_4038,Java Full Stack,53
+4039,3094,Batch_4039,Data Engineering,57
+4040,1367,Batch_4040,AI & ML,35
+4041,3990,Batch_4041,DevOps,43
+4042,2660,Batch_4042,Cloud Computing,41
+4043,3116,Batch_4043,Java Full Stack,33
+4044,2597,Batch_4044,Cloud Computing,55
+4045,5768,Batch_4045,Cloud Computing,48
+4046,1890,Batch_4046,AI & ML,25
+4047,1998,Batch_4047,DevOps,49
+4048,2805,Batch_4048,Python Full Stack,32
+4049,5749,Batch_4049,Python Full Stack,59
+4050,4829,Batch_4050,Cloud Computing,36
+4051,1557,Batch_4051,Cloud Computing,38
+4052,4527,Batch_4052,Python Full Stack,45
+4053,4194,Batch_4053,Cloud Computing,33
+4054,3507,Batch_4054,DevOps,35
+4055,4549,Batch_4055,AI & ML,34
+4056,3434,Batch_4056,AI & ML,33
+4057,5763,Batch_4057,Python Full Stack,34
+4058,3785,Batch_4058,Python Full Stack,60
+4059,5339,Batch_4059,Data Engineering,57
+4060,5165,Batch_4060,Java Full Stack,52
+4061,5056,Batch_4061,Java Full Stack,40
+4062,4968,Batch_4062,AI & ML,30
+4063,3919,Batch_4063,Data Engineering,60
+4064,2855,Batch_4064,AI & ML,38
+4065,5160,Batch_4065,Cloud Computing,41
+4066,4675,Batch_4066,Cloud Computing,47
+4067,2310,Batch_4067,Python Full Stack,39
+4068,3842,Batch_4068,Python Full Stack,28
+4069,5990,Batch_4069,Cloud Computing,35
+4070,5031,Batch_4070,AI & ML,60
+4071,4810,Batch_4071,DevOps,34
+4072,4217,Batch_4072,Python Full Stack,27
+4073,1303,Batch_4073,AI & ML,44
+4074,2896,Batch_4074,AI & ML,36
+4075,5160,Batch_4075,DevOps,59
+4076,1899,Batch_4076,AI & ML,33
+4077,2416,Batch_4077,Cloud Computing,30
+4078,5075,Batch_4078,Java Full Stack,27
+4079,2277,Batch_4079,Data Engineering,59
+4080,5703,Batch_4080,Cloud Computing,28
+4081,2139,Batch_4081,Cloud Computing,58
+4082,1986,Batch_4082,Java Full Stack,59
+4083,5309,Batch_4083,Python Full Stack,44
+4084,1954,Batch_4084,Java Full Stack,50
+4085,2568,Batch_4085,Data Engineering,33
+4086,5190,Batch_4086,Data Engineering,27
+4087,4126,Batch_4087,Python Full Stack,37
+4088,5409,Batch_4088,Java Full Stack,38
+4089,4453,Batch_4089,Java Full Stack,50
+4090,3364,Batch_4090,Java Full Stack,36
+4091,1742,Batch_4091,Java Full Stack,28
+4092,2407,Batch_4092,Python Full Stack,54
+4093,4223,Batch_4093,Cloud Computing,48
+4094,4295,Batch_4094,Data Engineering,43
+4095,2364,Batch_4095,Java Full Stack,41
+4096,1737,Batch_4096,Python Full Stack,56
+4097,2374,Batch_4097,Python Full Stack,26
+4098,2335,Batch_4098,Cloud Computing,37
+4099,5981,Batch_4099,Java Full Stack,47
+4100,2891,Batch_4100,Python Full Stack,37
+4101,5040,Batch_4101,Cloud Computing,50
+4102,2344,Batch_4102,Java Full Stack,59
+4103,4671,Batch_4103,Python Full Stack,42
+4104,5547,Batch_4104,Cloud Computing,28
+4105,2778,Batch_4105,Java Full Stack,57
+4106,5678,Batch_4106,Java Full Stack,36
+4107,5398,Batch_4107,Cloud Computing,28
+4108,5945,Batch_4108,Cloud Computing,27
+4109,5347,Batch_4109,Java Full Stack,55
+4110,5623,Batch_4110,Data Engineering,42
+4111,5459,Batch_4111,Java Full Stack,31
+4112,4253,Batch_4112,Cloud Computing,41
+4113,3907,Batch_4113,AI & ML,47
+4114,3144,Batch_4114,Data Engineering,41
+4115,5141,Batch_4115,Java Full Stack,57
+4116,1293,Batch_4116,Data Engineering,25
+4117,3963,Batch_4117,Java Full Stack,25
+4118,5463,Batch_4118,DevOps,47
+4119,2054,Batch_4119,Data Engineering,59
+4120,4420,Batch_4120,AI & ML,51
+4121,2647,Batch_4121,Cloud Computing,45
+4122,3122,Batch_4122,Java Full Stack,44
+4123,2363,Batch_4123,Data Engineering,60
+4124,4763,Batch_4124,Python Full Stack,57
+4125,4598,Batch_4125,AI & ML,50
+4126,5979,Batch_4126,DevOps,40
+4127,3724,Batch_4127,AI & ML,59
+4128,3088,Batch_4128,AI & ML,25
+4129,2236,Batch_4129,Data Engineering,31
+4130,3056,Batch_4130,Cloud Computing,40
+4131,1525,Batch_4131,DevOps,37
+4132,2883,Batch_4132,Cloud Computing,51
+4133,3593,Batch_4133,Python Full Stack,32
+4134,4741,Batch_4134,AI & ML,35
+4135,4193,Batch_4135,AI & ML,50
+4136,5299,Batch_4136,Python Full Stack,38
+4137,5639,Batch_4137,AI & ML,54
+4138,3534,Batch_4138,Python Full Stack,52
+4139,4233,Batch_4139,Python Full Stack,50
+4140,3468,Batch_4140,Java Full Stack,43
+4141,5813,Batch_4141,Java Full Stack,36
+4142,1661,Batch_4142,Data Engineering,46
+4143,4115,Batch_4143,Python Full Stack,48
+4144,3479,Batch_4144,DevOps,43
+4145,1857,Batch_4145,Python Full Stack,26
+4146,1482,Batch_4146,Python Full Stack,45
+4147,4821,Batch_4147,AI & ML,42
+4148,2956,Batch_4148,Data Engineering,37
+4149,2274,Batch_4149,DevOps,52
+4150,5685,Batch_4150,Python Full Stack,31
+4151,2125,Batch_4151,Python Full Stack,59
+4152,2463,Batch_4152,Cloud Computing,26
+4153,3831,Batch_4153,Data Engineering,48
+4154,1598,Batch_4154,DevOps,25
+4155,1627,Batch_4155,Cloud Computing,47
+4156,2058,Batch_4156,DevOps,25
+4157,5850,Batch_4157,Cloud Computing,57
+4158,5423,Batch_4158,DevOps,52
+4159,3163,Batch_4159,Java Full Stack,27
+4160,3192,Batch_4160,AI & ML,40
+4161,2447,Batch_4161,Data Engineering,25
+4162,4437,Batch_4162,DevOps,43
+4163,1548,Batch_4163,Data Engineering,43
+4164,5620,Batch_4164,Cloud Computing,28
+4165,3537,Batch_4165,Cloud Computing,28
+4166,2309,Batch_4166,Python Full Stack,34
+4167,3916,Batch_4167,Cloud Computing,39
+4168,1503,Batch_4168,Data Engineering,50
+4169,3308,Batch_4169,DevOps,44
+4170,1283,Batch_4170,DevOps,30
+4171,5476,Batch_4171,DevOps,50
+4172,5086,Batch_4172,Cloud Computing,48
+4173,1136,Batch_4173,AI & ML,40
+4174,3606,Batch_4174,Python Full Stack,39
+4175,2587,Batch_4175,DevOps,29
+4176,1018,Batch_4176,Python Full Stack,36
+4177,1560,Batch_4177,Python Full Stack,47
+4178,2311,Batch_4178,Data Engineering,33
+4179,1328,Batch_4179,DevOps,56
+4180,1082,Batch_4180,Data Engineering,37
+4181,2227,Batch_4181,Java Full Stack,34
+4182,1689,Batch_4182,Java Full Stack,44
+4183,3513,Batch_4183,AI & ML,60
+4184,2457,Batch_4184,Java Full Stack,56
+4185,5073,Batch_4185,DevOps,31
+4186,4058,Batch_4186,AI & ML,26
+4187,2060,Batch_4187,AI & ML,57
+4188,4149,Batch_4188,Data Engineering,45
+4189,2115,Batch_4189,AI & ML,33
+4190,4979,Batch_4190,Cloud Computing,58
+4191,4657,Batch_4191,AI & ML,29
+4192,3427,Batch_4192,Data Engineering,40
+4193,3048,Batch_4193,Data Engineering,42
+4194,2415,Batch_4194,DevOps,29
+4195,3006,Batch_4195,AI & ML,48
+4196,1821,Batch_4196,Cloud Computing,59
+4197,2626,Batch_4197,Data Engineering,58
+4198,3691,Batch_4198,Cloud Computing,34
+4199,4897,Batch_4199,Data Engineering,58
+4200,2454,Batch_4200,Cloud Computing,33
+4201,3115,Batch_4201,Cloud Computing,50
+4202,1484,Batch_4202,Java Full Stack,51
+4203,5816,Batch_4203,Python Full Stack,30
+4204,1612,Batch_4204,Cloud Computing,26
+4205,4273,Batch_4205,Data Engineering,42
+4206,3614,Batch_4206,Cloud Computing,44
+4207,2383,Batch_4207,Cloud Computing,49
+4208,2395,Batch_4208,DevOps,33
+4209,1141,Batch_4209,Data Engineering,58
+4210,1984,Batch_4210,DevOps,44
+4211,4635,Batch_4211,Cloud Computing,39
+4212,1455,Batch_4212,Data Engineering,43
+4213,1098,Batch_4213,AI & ML,31
+4214,4136,Batch_4214,DevOps,27
+4215,5399,Batch_4215,AI & ML,41
+4216,1036,Batch_4216,Java Full Stack,42
+4217,1467,Batch_4217,DevOps,33
+4218,3093,Batch_4218,Java Full Stack,32
+4219,4214,Batch_4219,Cloud Computing,45
+4220,2632,Batch_4220,DevOps,46
+4221,3602,Batch_4221,Data Engineering,58
+4222,1897,Batch_4222,DevOps,47
+4223,3491,Batch_4223,AI & ML,37
+4224,2783,Batch_4224,Cloud Computing,28
+4225,1106,Batch_4225,Python Full Stack,45
+4226,4977,Batch_4226,Data Engineering,54
+4227,4308,Batch_4227,Java Full Stack,45
+4228,3516,Batch_4228,Java Full Stack,59
+4229,3261,Batch_4229,Java Full Stack,53
+4230,2431,Batch_4230,Data Engineering,32
+4231,1990,Batch_4231,Cloud Computing,33
+4232,3196,Batch_4232,Python Full Stack,27
+4233,1851,Batch_4233,Cloud Computing,58
+4234,5332,Batch_4234,Data Engineering,47
+4235,1493,Batch_4235,Data Engineering,28
+4236,4036,Batch_4236,Cloud Computing,60
+4237,4226,Batch_4237,Java Full Stack,43
+4238,4943,Batch_4238,AI & ML,51
+4239,5295,Batch_4239,Python Full Stack,28
+4240,5006,Batch_4240,Data Engineering,29
+4241,4638,Batch_4241,Java Full Stack,53
+4242,2957,Batch_4242,Data Engineering,29
+4243,2774,Batch_4243,Data Engineering,37
+4244,2236,Batch_4244,Python Full Stack,26
+4245,4323,Batch_4245,DevOps,44
+4246,5818,Batch_4246,AI & ML,43
+4247,1065,Batch_4247,Java Full Stack,45
+4248,1964,Batch_4248,Java Full Stack,57
+4249,5659,Batch_4249,Python Full Stack,33
+4250,2542,Batch_4250,DevOps,51
+4251,2358,Batch_4251,Java Full Stack,50
+4252,2824,Batch_4252,DevOps,28
+4253,3606,Batch_4253,Java Full Stack,37
+4254,1174,Batch_4254,Cloud Computing,47
+4255,3337,Batch_4255,Python Full Stack,58
+4256,4577,Batch_4256,AI & ML,59
+4257,5915,Batch_4257,Python Full Stack,27
+4258,5284,Batch_4258,AI & ML,54
+4259,1993,Batch_4259,AI & ML,53
+4260,4835,Batch_4260,Java Full Stack,32
+4261,2533,Batch_4261,Java Full Stack,41
+4262,5584,Batch_4262,Python Full Stack,53
+4263,1638,Batch_4263,Cloud Computing,55
+4264,3255,Batch_4264,Data Engineering,36
+4265,5635,Batch_4265,Python Full Stack,36
+4266,5446,Batch_4266,Java Full Stack,40
+4267,5404,Batch_4267,DevOps,54
+4268,2921,Batch_4268,Cloud Computing,29
+4269,5742,Batch_4269,Python Full Stack,56
+4270,3561,Batch_4270,DevOps,31
+4271,1227,Batch_4271,Java Full Stack,58
+4272,1629,Batch_4272,AI & ML,49
+4273,3536,Batch_4273,Cloud Computing,38
+4274,5667,Batch_4274,Java Full Stack,51
+4275,3494,Batch_4275,Data Engineering,42
+4276,2386,Batch_4276,Cloud Computing,33
+4277,1380,Batch_4277,Data Engineering,27
+4278,2598,Batch_4278,AI & ML,33
+4279,3242,Batch_4279,Cloud Computing,26
+4280,3402,Batch_4280,Java Full Stack,37
+4281,1409,Batch_4281,Cloud Computing,58
+4282,5283,Batch_4282,Python Full Stack,34
+4283,5323,Batch_4283,Cloud Computing,51
+4284,2396,Batch_4284,AI & ML,39
+4285,1200,Batch_4285,Python Full Stack,26
+4286,3607,Batch_4286,Data Engineering,52
+4287,1062,Batch_4287,Java Full Stack,40
+4288,1429,Batch_4288,AI & ML,32
+4289,5394,Batch_4289,Python Full Stack,53
+4290,2363,Batch_4290,Data Engineering,45
+4291,5527,Batch_4291,Cloud Computing,28
+4292,5611,Batch_4292,Python Full Stack,26
+4293,5534,Batch_4293,Cloud Computing,37
+4294,2149,Batch_4294,Data Engineering,48
+4295,1764,Batch_4295,DevOps,53
+4296,5605,Batch_4296,Data Engineering,39
+4297,5249,Batch_4297,Python Full Stack,33
+4298,3370,Batch_4298,AI & ML,60
+4299,5562,Batch_4299,AI & ML,28
+4300,2949,Batch_4300,Python Full Stack,60
+4301,4169,Batch_4301,Cloud Computing,47
+4302,5271,Batch_4302,Data Engineering,26
+4303,3731,Batch_4303,AI & ML,47
+4304,1287,Batch_4304,Cloud Computing,41
+4305,2264,Batch_4305,AI & ML,58
+4306,3188,Batch_4306,Data Engineering,30
+4307,4255,Batch_4307,Python Full Stack,56
+4308,2905,Batch_4308,Cloud Computing,58
+4309,2151,Batch_4309,Cloud Computing,59
+4310,2896,Batch_4310,DevOps,34
+4311,3956,Batch_4311,Cloud Computing,52
+4312,5901,Batch_4312,DevOps,59
+4313,5295,Batch_4313,Java Full Stack,25
+4314,2924,Batch_4314,Java Full Stack,54
+4315,2098,Batch_4315,Java Full Stack,57
+4316,5130,Batch_4316,Cloud Computing,42
+4317,2770,Batch_4317,Cloud Computing,39
+4318,2087,Batch_4318,AI & ML,39
+4319,1415,Batch_4319,Java Full Stack,26
+4320,3676,Batch_4320,Cloud Computing,57
+4321,2159,Batch_4321,Data Engineering,34
+4322,2771,Batch_4322,Cloud Computing,28
+4323,1605,Batch_4323,Java Full Stack,40
+4324,4823,Batch_4324,Data Engineering,47
+4325,1918,Batch_4325,Data Engineering,42
+4326,2301,Batch_4326,AI & ML,31
+4327,2862,Batch_4327,Java Full Stack,59
+4328,1672,Batch_4328,AI & ML,34
+4329,4875,Batch_4329,Data Engineering,52
+4330,5904,Batch_4330,Data Engineering,40
+4331,5476,Batch_4331,Java Full Stack,45
+4332,4093,Batch_4332,DevOps,44
+4333,1419,Batch_4333,AI & ML,31
+4334,4986,Batch_4334,DevOps,57
+4335,1904,Batch_4335,Cloud Computing,60
+4336,5415,Batch_4336,DevOps,38
+4337,2544,Batch_4337,Data Engineering,53
+4338,3578,Batch_4338,AI & ML,40
+4339,1976,Batch_4339,AI & ML,29
+4340,4518,Batch_4340,Data Engineering,60
+4341,3130,Batch_4341,Cloud Computing,39
+4342,4202,Batch_4342,Data Engineering,31
+4343,1531,Batch_4343,Data Engineering,29
+4344,1236,Batch_4344,DevOps,37
+4345,2165,Batch_4345,DevOps,52
+4346,3189,Batch_4346,AI & ML,38
+4347,3219,Batch_4347,DevOps,35
+4348,2389,Batch_4348,DevOps,51
+4349,4304,Batch_4349,DevOps,56
+4350,4429,Batch_4350,DevOps,56
+4351,5497,Batch_4351,Data Engineering,34
+4352,5388,Batch_4352,Python Full Stack,37
+4353,2731,Batch_4353,AI & ML,30
+4354,2858,Batch_4354,DevOps,27
+4355,1852,Batch_4355,AI & ML,49
+4356,3876,Batch_4356,Cloud Computing,39
+4357,5006,Batch_4357,Java Full Stack,36
+4358,5603,Batch_4358,DevOps,29
+4359,3338,Batch_4359,DevOps,53
+4360,1668,Batch_4360,Data Engineering,57
+4361,1369,Batch_4361,AI & ML,28
+4362,3222,Batch_4362,AI & ML,40
+4363,2473,Batch_4363,Cloud Computing,35
+4364,5775,Batch_4364,DevOps,44
+4365,3839,Batch_4365,Java Full Stack,60
+4366,3749,Batch_4366,Cloud Computing,30
+4367,5053,Batch_4367,Python Full Stack,37
+4368,5922,Batch_4368,Cloud Computing,41
+4369,3876,Batch_4369,Java Full Stack,34
+4370,5418,Batch_4370,DevOps,37
+4371,2127,Batch_4371,Java Full Stack,28
+4372,1894,Batch_4372,Cloud Computing,56
+4373,4815,Batch_4373,AI & ML,47
+4374,1895,Batch_4374,Cloud Computing,52
+4375,1537,Batch_4375,Java Full Stack,41
+4376,5093,Batch_4376,Java Full Stack,55
+4377,5063,Batch_4377,Cloud Computing,47
+4378,4108,Batch_4378,Cloud Computing,31
+4379,4166,Batch_4379,Cloud Computing,44
+4380,2356,Batch_4380,AI & ML,36
+4381,1643,Batch_4381,Python Full Stack,34
+4382,3629,Batch_4382,AI & ML,41
+4383,2257,Batch_4383,AI & ML,40
+4384,3077,Batch_4384,Cloud Computing,49
+4385,1443,Batch_4385,AI & ML,55
+4386,1468,Batch_4386,AI & ML,30
+4387,3335,Batch_4387,DevOps,59
+4388,2525,Batch_4388,AI & ML,25
+4389,4466,Batch_4389,Java Full Stack,60
+4390,2429,Batch_4390,AI & ML,54
+4391,1245,Batch_4391,AI & ML,37
+4392,1944,Batch_4392,DevOps,30
+4393,5490,Batch_4393,Data Engineering,36
+4394,4450,Batch_4394,AI & ML,56
+4395,5674,Batch_4395,Cloud Computing,51
+4396,2434,Batch_4396,AI & ML,31
+4397,1146,Batch_4397,Cloud Computing,46
+4398,3066,Batch_4398,Data Engineering,55
+4399,1428,Batch_4399,Java Full Stack,38
+4400,1821,Batch_4400,Data Engineering,35
+4401,5664,Batch_4401,AI & ML,30
+4402,2792,Batch_4402,Python Full Stack,43
+4403,1873,Batch_4403,AI & ML,48
+4404,5801,Batch_4404,AI & ML,38
+4405,4561,Batch_4405,DevOps,34
+4406,4130,Batch_4406,AI & ML,44
+4407,5369,Batch_4407,AI & ML,49
+4408,3512,Batch_4408,Data Engineering,25
+4409,2582,Batch_4409,DevOps,58
+4410,3288,Batch_4410,Java Full Stack,35
+4411,2226,Batch_4411,Cloud Computing,53
+4412,4156,Batch_4412,Data Engineering,27
+4413,1830,Batch_4413,Data Engineering,28
+4414,5735,Batch_4414,Cloud Computing,47
+4415,4398,Batch_4415,Cloud Computing,56
+4416,5422,Batch_4416,Python Full Stack,38
+4417,5391,Batch_4417,Python Full Stack,32
+4418,3289,Batch_4418,AI & ML,34
+4419,2904,Batch_4419,Data Engineering,41
+4420,2799,Batch_4420,DevOps,28
+4421,4509,Batch_4421,Java Full Stack,59
+4422,4515,Batch_4422,DevOps,30
+4423,2785,Batch_4423,Cloud Computing,60
+4424,2681,Batch_4424,Data Engineering,46
+4425,1422,Batch_4425,Data Engineering,60
+4426,1311,Batch_4426,Cloud Computing,43
+4427,5035,Batch_4427,DevOps,33
+4428,4447,Batch_4428,DevOps,25
+4429,2412,Batch_4429,Python Full Stack,36
+4430,1789,Batch_4430,Data Engineering,29
+4431,3218,Batch_4431,Data Engineering,49
+4432,2707,Batch_4432,DevOps,31
+4433,5492,Batch_4433,AI & ML,52
+4434,2842,Batch_4434,Python Full Stack,44
+4435,2075,Batch_4435,Data Engineering,27
+4436,4755,Batch_4436,AI & ML,39
+4437,3156,Batch_4437,Java Full Stack,52
+4438,3299,Batch_4438,Python Full Stack,57
+4439,1866,Batch_4439,DevOps,59
+4440,4406,Batch_4440,AI & ML,54
+4441,3476,Batch_4441,Java Full Stack,40
+4442,5151,Batch_4442,Data Engineering,35
+4443,4961,Batch_4443,Data Engineering,55
+4444,2185,Batch_4444,DevOps,31
+4445,5929,Batch_4445,DevOps,49
+4446,5176,Batch_4446,Cloud Computing,37
+4447,1888,Batch_4447,DevOps,55
+4448,3337,Batch_4448,DevOps,39
+4449,2059,Batch_4449,Java Full Stack,45
+4450,2508,Batch_4450,Cloud Computing,56
+4451,4215,Batch_4451,Data Engineering,39
+4452,2960,Batch_4452,Java Full Stack,46
+4453,5393,Batch_4453,DevOps,54
+4454,4646,Batch_4454,DevOps,43
+4455,5550,Batch_4455,Python Full Stack,56
+4456,2738,Batch_4456,DevOps,60
+4457,2113,Batch_4457,Java Full Stack,55
+4458,4121,Batch_4458,Data Engineering,60
+4459,3969,Batch_4459,Cloud Computing,59
+4460,1964,Batch_4460,Python Full Stack,38
+4461,2588,Batch_4461,Data Engineering,59
+4462,5949,Batch_4462,Python Full Stack,44
+4463,3865,Batch_4463,AI & ML,55
+4464,5525,Batch_4464,Cloud Computing,29
+4465,3343,Batch_4465,Java Full Stack,30
+4466,2905,Batch_4466,DevOps,28
+4467,2207,Batch_4467,Cloud Computing,51
+4468,4416,Batch_4468,Data Engineering,53
+4469,4652,Batch_4469,Python Full Stack,28
+4470,3689,Batch_4470,Python Full Stack,52
+4471,3174,Batch_4471,Cloud Computing,51
+4472,1248,Batch_4472,AI & ML,49
+4473,4204,Batch_4473,DevOps,39
+4474,3724,Batch_4474,AI & ML,59
+4475,3955,Batch_4475,Data Engineering,45
+4476,3184,Batch_4476,AI & ML,25
+4477,4239,Batch_4477,Cloud Computing,41
+4478,2706,Batch_4478,AI & ML,36
+4479,1919,Batch_4479,Java Full Stack,29
+4480,5034,Batch_4480,Python Full Stack,48
+4481,4952,Batch_4481,AI & ML,46
+4482,1882,Batch_4482,AI & ML,29
+4483,1361,Batch_4483,Java Full Stack,41
+4484,1073,Batch_4484,Cloud Computing,38
+4485,4530,Batch_4485,Java Full Stack,53
+4486,3157,Batch_4486,DevOps,43
+4487,1583,Batch_4487,Java Full Stack,36
+4488,2726,Batch_4488,Python Full Stack,34
+4489,5352,Batch_4489,DevOps,26
+4490,2692,Batch_4490,Cloud Computing,44
+4491,5603,Batch_4491,Python Full Stack,40
+4492,3155,Batch_4492,Cloud Computing,31
+4493,4287,Batch_4493,AI & ML,35
+4494,1280,Batch_4494,Java Full Stack,54
+4495,3048,Batch_4495,Cloud Computing,57
+4496,2328,Batch_4496,Cloud Computing,50
+4497,1368,Batch_4497,Cloud Computing,53
+4498,5904,Batch_4498,Java Full Stack,56
+4499,3644,Batch_4499,Java Full Stack,59
+4500,4874,Batch_4500,AI & ML,45

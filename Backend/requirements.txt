@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+numpy
+gunicorn
+openai
+langchain
+langchain-openai
